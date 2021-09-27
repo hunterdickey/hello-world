@@ -1,5 +1,5 @@
 # hello-world
 test
 
-Its me, Hunter. 
+It's me, Hunter. 
 I am writing code in this website thing. Golf. 
